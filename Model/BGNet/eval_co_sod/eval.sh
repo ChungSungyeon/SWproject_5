@@ -1,0 +1,1 @@
+CUDA_VISIBLE_DEVICES=0 python main.py --methods method1 --datasets dataset1 --save_dir /content/drive/MyDrive/BGNet/suhyeon_try4 --root_dir /content/drive/MyDrive/BGNet/suhyeon_try4
